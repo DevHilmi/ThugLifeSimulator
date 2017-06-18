@@ -3,18 +3,18 @@ in this game, player can choose 1 character from 2 character. then player will d
 ## Target Hardware
 Windows PC
 ## Creator
-145150201111107
-HILMI ILYAS RIZALDI
-Graphic Programmer
-145150207111044
-MOHAMMAD ALAUDDIN
-Graphic Programmer
-145150207111089
-BARIQ NAJMI RIZQULLAH
-GamePlay / Music Programmer
-165150209111006
-DIAN PRATAMA
-UI Programmer
+*145150201111107
+*HILMI ILYAS RIZALDI
+*Graphic Programmer
+*145150207111044
+*MOHAMMAD ALAUDDIN
+*Graphic Programmer
+*145150207111089
+*BARIQ NAJMI RIZQULLAH
+*GamePlay / Music Programmer
+*165150209111006
+*DIAN PRATAMA
+*UI Programmer
 ## Dependencies
 * GLEW
 * SDL2
